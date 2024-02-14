@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Software Engineer qwd t Cisco. :computer:
+Graduated! 🎓 Graduated from BMS College of Engineering, Bangalore, India with a B.E in Computer Science. :tada:
+
