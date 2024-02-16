@@ -68,44 +68,50 @@
   ],
   "certificates": [
     {
+      "name": "Options 101",
+      "issuer": "Akuna Capital",
+      "url": "https://drive.google.com/file/d/1yziJ0bOwwkc2EwiKbWtP7nvEoalJ8ymU/view?usp=sharing",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Deep Learning specialisation",
+      "issuer": "Stanford University",
+      "url": "https://coursera.org/share/54ad2e6deddfc50a90321b4588db1a01",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
+      "name": "Google Cloud",
+      "issuer": "Google",
+      "url": "https://www.cloudskillsboost.google/public_profiles/afe1dad7-0ef1-4fa7-ae8f-13bd81c68e5e",
+      "icon": "fa-solid fa-clipboard-check"
+    },
+    {
       "name": "Machine Learning",
-      "date": "2018-01-01",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "url": "https://coursera.org/share/041ae9e056b5b45aa455faf65e81254f",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
+      "name": "Machine Learning",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "url": "https://www.coursera.org/account/accomplishments/verify/PRL59Z4HFJBM",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
+      "name": "Trading, Machine Learning & GCP",
       "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "url": "https://www.coursera.org/account/accomplishments/verify/PRL59Z4HFJBM",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Bloomberg Market Concepts",
+      "issuer": "Bloomberg",
+      "url": "https://portal.bloombergforeducation.com/certificates/1duB7rbfEQGBDfpvsDhNZGHc",
+      "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Algorithmic Developer",
+      "issuer": "Udemy",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
@@ -135,22 +141,54 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Mathematics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Markov Chain Monte Carlo",
+        "Bayesian Analysis", 
+        "Stochastic Processes", 
+        "Time-Series Analysis", 
+        "Statistical Simulations", 
+        "Numerical Computing",
+        "Probability",
+        "Linear Algebra"
+      ]
+    },
+    {
+      "name": "Finance",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Markov Chain Monte Carlo",
+        "Bayesian Analysis", 
+        "Stochastic Processes"  
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Markov Chain Monte Carlo",
+        "Bayesian Analysis", 
+        "Stochastic Processes"  
+      ]
+    },
+    {
+      "name": "Technologies",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Markov Chain Monte Carlo",
+        "Bayesian Analysis", 
+        "Stochastic Processes"  
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -162,15 +200,10 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Mechanics"
       ]
     }
   ],
